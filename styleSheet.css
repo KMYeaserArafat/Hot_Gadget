@@ -1,0 +1,26 @@
+
+.container{
+    margin-bottom: 50px;
+}
+
+
+.buy-now-btn{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.carosol-pera{
+    color: gray;
+}
+
+
+.head-nav-link{
+    color: gray;
+    font-weight: bold;
+}
+
+button{
+    background-color: yellow;
+}
