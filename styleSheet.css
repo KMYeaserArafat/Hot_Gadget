@@ -24,3 +24,43 @@
 button{
     background-color: yellow;
 }
+
+.nav-link{
+    color: rgb(207, 167, 6);
+    font-weight: bold;
+}
+
+.card{
+    padding: 50px;
+}
+
+.card-title,.card-text,.card-price{
+    text-align: center;
+}
+
+.card-btn{
+    align-items: center;
+    padding:10px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.catagory-head{
+    text-align: center;
+}
+
+.col-md-2{
+    background-color: rgb(249, 249, 248);
+}
+
+footer{
+    text-align: center;
+    color: gray;
+    margin-bottom: 0;
+}
